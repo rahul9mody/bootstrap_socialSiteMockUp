@@ -1,0 +1,31 @@
+body{
+	background-color: #c0deed;
+}
+
+.navbar{
+	background-color: #ffffff !important;
+}
+
+.navbar-nav{
+	float: none;
+	text-align: center;
+}
+
+.navbar-nav li{
+	display: inline-block;
+	float: none;
+}
+
+#status{
+	background-color: #A7D6ED; 
+}
+
+#inStat{
+	width: 100%;
+
+}
+
+::placeholder{
+	color: #00aced;
+	 
+}
