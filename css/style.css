@@ -27,5 +27,9 @@ body{
 
 ::placeholder{
 	color: #00aced;
-	 
+
+}
+
+.text-center {
+   text-align:center
 }
